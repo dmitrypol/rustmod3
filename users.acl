@@ -1,0 +1,5 @@
+user admin on nopass sanitize-payload ~* &* +@all
+user default on nopass sanitize-payload ~* &* +@all
+user user1 on nopass sanitize-payload ~* &* +@all
+user user2 on nopass sanitize-payload ~* &* +@all
+user user3 on nopass sanitize-payload ~* &* +@all
